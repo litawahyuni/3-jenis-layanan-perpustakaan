@@ -1,0 +1,147 @@
+body {
+	font-family: Candara;
+	background-image: url("/tugaslita/images/bg3.jpg");
+	background-position: center;
+	background-size: cover
+	background-repeat: no-repeat;
+	margin-left: 60px; margin-right: 60px;
+}
+h1 {
+	font-family: Bakso Sapi;
+	font-size: 50px;
+	text-align: center;
+	padding: 8px;
+	color: whitesmoke;
+	text-shadow: 2px 2px 5px yellow; 
+	text-decoration: underline wavy grey;
+	text-align: center;
+}
+
+a:link {
+	color:hotpink;
+}
+a:hover {
+	color:yellow;
+}
+a:visited {
+	color: green;
+}
+a:active {
+	color: lightsalmon;
+}
+
+
+ul {
+	background: hsl(170, 78%, 89%);
+	padding: 20px;
+}
+
+ul li {
+	list-style-type: upper-roman;
+	background: lightpink;
+	color: hsl(151, 27%, 40%);
+	margin: 5px;
+}
+
+.box {
+	width: 1165px;
+	height: 130px;
+	padding: 20px;
+	border: 10px; color: hsl(151, 27%, 40%);
+	margin: 20px;
+	background-color: hsl(170, 78%, 89%);
+	text-align: justify;
+	text-indent: 30px;
+	border: 8px solid lightpink;
+	outline-style: ridge;
+	outline-color: darkred;
+	outline-offset: 1px;
+	margin-left: 5px;
+	margin-right: 10px;
+}
+
+.icon {
+	font-size: 24px;
+	color: purple;
+	margin: 8px;
+}
+
+h3 {
+	direction: rtl;
+	font-size: 23px;
+}
+
+p {
+	text-align: justify;
+	font-size: 15px;
+	color: black;
+	float:
+	padding: 10px;
+	padding-bottom: 5px;
+	padding-top: 5px;
+	padding-right: 15px;
+	padding-left: 15px;
+	background-color: rgba(300, 300, 300, 0.8);
+}
+
+h2 {
+	font-family: Brusher;
+	text-decoration: underline wavy red;
+	background-color: hsl(57, 98%, 74%);
+	color:hsl(32, 100%, 20%);
+	font-size: 30px;
+}
+
+
+div {
+	padding: 10px;
+	padding-bottom: 5px;
+	padding-top: 5px;
+	padding-right: 20px;
+	padding-left: 20px;
+	background-color: rgba(300, 300, 300, 0.9);
+	margin-top: 50px;
+	margin-left: 50px;
+	margin-right: 50px;
+	margin-bottom: 50px;
+ }
+
+img{
+	width: 280px;
+	height: 200px;
+	margin-left: 8px;
+	margin-right: 8px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+.border {
+	border-style: double;
+	border-color: hsl(7, 79%, 56%);
+	border-radius: 5px;
+	background-color: hsl(334, 72%, 92%)
+}
+
+td{
+	text-align: justify;
+}
+
+table, th, td {
+			padding: 15px;
+		}
+		th, td {
+			padding-top: 10px;
+			padding-bottom: 20px;
+			padding-left: 30px;
+			padding-right: 40px;
+		}
+		table {
+			display: table;
+			border-collapse: collapse;
+			border-spacing: 2px;
+			border-color: black;
+		}
+		tr:hover {background-color: grey;
+		}
+
+.cite
